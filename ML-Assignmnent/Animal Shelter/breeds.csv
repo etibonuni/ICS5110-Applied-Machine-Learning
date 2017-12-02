@@ -1,0 +1,266 @@
+Breed,Size
+chihuahua,1
+Affenpinscher,2
+Cairn Terrier,2
+German Spitz,2
+Spitz,2
+Kleinspitz,2
+Havanese,2
+Japanese Chin,2
+Maltese,2
+Norfolk Terrier,2
+Pekingese,2
+Pomeranian,2
+Scottish Terrier,2
+Shih Tzu,2
+Skye Terrier,2
+Silky Terrier,2
+Toy Poodle,2
+Toy Fox Terrier,2
+West Highland,2
+White Terrier,2
+Yorkshire,2
+Terrier,2
+Papillon,3
+Parson Russell Terrier,3
+Pembroke Welsh Corgi,3
+Petit Bassett Griffon Vendeen,3
+Podengo Pequeno,3
+Pug,3
+Russian Tsvetnaya Bolonka,3
+Schipperke,3
+Sealyham Terrier,3
+Sussex Spaniel,3
+Swedish Vallhund,3
+Tibetan Spaniel,3
+Toy Manchester Terrier,3
+Volpino,3
+Welsh Terrier,3
+Wirehaired Fox Terrier,3
+American Cocker Spaniel,3
+American Eskimo Dog,3
+Australian Terrier,3
+Basset Hound,3
+Bichon Frise,3
+Bolognese,3
+Border Terrier,3
+Boston Terrier,3
+Brazilian Terrier,3
+Brussels Griffon,3
+Bulldog ,3
+Bull Terrier,3
+Cardigan Welsh Corgi,3
+Cavalier King Charles Spaniel,3
+Cesky Terrier,3
+Chinese Crested,3
+Coton de Tulear,3
+Dachshund,3
+Drever,3
+Dandie Dinmont Terrier,3
+Dutch Smoushond,3
+English Toy Spaniel ,3
+French Bulldog,3
+Mittelspitz,3
+Icelandic Sheepdog,3
+Italian Greyhound,3
+Jack Russell Terrier,3
+Lakeland Terrier ,3
+Lhasa ApsoLowchen,3
+Miniature Bull Terrier,3
+Miniature Pinscher,3
+Miniature Poodle,3
+Miniature Schnauzer,3
+Soft Coated Wheaten Terrier,4
+Staffordshire Bull Terrier,4
+Standard Schnauzer,4
+Swedish Lapphund,4
+Tibetan Terrier,4
+Welsh Springer Spaniel,4
+Alpine Dachsbracke,4
+Aidi ,4
+American Eskimo Dog,4
+American Staffordshire Terrier,4
+American Water Spaniel,4
+Austrian Shorthaired Pinscher,4
+Basenji,4
+Beagle,4
+Bedlington Terrier,4
+Boykin Spaniel,4
+Brittany Spaniel,4
+Chinese Sharpei,4
+Chow Chow,4
+Clumber Spaniel,4
+Dutch Schapendoes ,4
+English Cocker Spaniel,4
+Field Spaniel,4
+Finnish Lapphund,4
+Finnish Spitz,4
+German Hunt Terrier,4
+German Pinscher,4
+Glen of Imaal Terrier,4
+Irish Terrier ,4
+Keeshond,4
+Kerry Blue Terrier,4
+Kooikerhondje,4
+Lagotto Romagnolo,4
+New Guinea Singing Dog ,4
+Norrbottenspets,4
+Norwegian Buhund,4
+Norwegian Lundehund,4
+Manchester Terrier,4
+Miniature Australian Shepherd,4
+Mudi,4
+Puli,4
+Shetland Sheepdog,4
+Shiba Inu,4
+Smooth Fox Terrier,4
+American Pitbull Terrier,5
+Pit Bull,5
+Australian Cattle Dog,5
+Australian Kelpie,5
+Australian Shepherd,5
+Australian Stumpy Tail Cattle Dog,5
+Austrian Black and Tan Hound,5
+Barbet ,5
+Bearded Collie,5
+Border Collie,5
+Bull Terrier,5
+Canaan Dog,5
+Catalonian Sheepdog,5
+Cirneco dell' Etna,5
+Dalmation,5
+English Springer Spaniel,5
+German Spitz- Giant (Grosspitz),5
+Gotland Hound,5
+Harrier,5
+Hokkaido,5
+Jindo,5
+Olde English Bulldogge,5
+Old English Sheepdog,5
+Polish Lowland Sheepdog,5
+Portuguese Podengo Medio (medium),5
+Portuguese Pointer,5
+Portuguese Water Dog,5
+Pumi,5
+Norwegian Elkhound,5
+Nova Scotia Duck Tolling Retriever,5
+Samoyed,5
+Schiller Hound,5
+Smäland Hound,5
+Stabyhoun,5
+Swedish White Elkhound,5
+Whippet,5
+German Wirehaired Pointer,6
+Giant Schnauzer,6
+Golden Retriever,6
+Great Swiss Mountain Dog,6
+Hällesforshund,6
+Hamilton Hound,6
+Irish Red and White Setter,6
+Irish Water Spaniel,6
+Italian Pointer,6
+Komondor,6
+Labrador Retriever,6
+Labrador Retriever,6
+Pharaoh Hound,6
+Plott Hound,6
+Picardy Shepherd,6
+Redbone Coonhound,6
+Rottweiler ,6
+Saluki,6
+Siberian Husky,6
+Spinone Italiano,6
+Standard Poodle,6
+Swedish Elkhound,6
+Thai Ridgeback,6
+Vizsla,6
+Weimaraner,6
+Wirehaired Pointing Griffon,6
+Airedale Terrier,6
+Alapaha Blue Blood Bulldog,6
+Alaskan Malamute,6
+American Bulldog,6
+American Foxhound,6
+Ardennes Cattle Dog,6
+Appenzeller Sennenhund,6
+Ariege Hound,6
+Australian Dingo,6
+Auvergne Pointer,6
+Belgian Groenendael,6
+Belgian Laekenois,6
+Belgian Malinois,6
+Belgian Tervueren,6
+Bergamasco,6
+Bernese Mountain Dog,6
+Billy,6
+Blue Picardy Spaniel,6
+Bourbonnais Pointer,6
+Boxer,6
+Briard,6
+Bullmastiff,6
+Black and Tan Coonhound,6
+Câo Fila de Sâo Miguel,6
+Central Asian Shepherd,6
+Collie,6
+Chesapeake Bay Retriever,6
+Drentsch Partridge Dog,6
+Dutch Shepherd Dog ,6
+English Foxhound,6
+English Setter,6
+Eurasier,6
+Flat Coated Retriever,6
+German Shepherd,6
+German Shorthaired Pointer,6
+Saint Bernard,7
+Shiloh Shepherd,7
+Shiloh Shepherd,7
+Sloughi,7
+South African Boerboel,7
+Tibetan Mastiff,7
+Tosa,7
+Afghan,7
+Azawakh,7
+Beauceron,7
+Black Russian Terrier,7
+Bloodhound,7
+Borzoi,7
+Bouvier des Flandres,7
+Cane Corso,7
+Caucasian Ovtcharka,7
+Czechoslovakian Wolfdog,7
+Chinook,7
+Curly Coated Retriever,7
+Doberman Pinscher,7
+Dogo Argentino,7
+Dogo Canario,7
+Dogue de Bordeaux,7
+Gordon Setter,7
+Fila Brasiliero,7
+Great Pyrenees,7
+Greyhound,7
+Ibizan Hound,7
+Irish Setter,7
+Hovawart,7
+Japanese Akita,7
+Japanese American Akita,7
+King Shepherd,7
+Kuvasz,7
+Landseer Newfoundland,7
+Leonberger ,7
+Maremma Sheepdog,7
+Mastiff,7
+Neapolitan Mastiff,7
+Newfoundland,7
+Pointer,7
+Portuguese Podengo Grande (large),7
+Rhodesian Ridgeback,7
+Romanian Carpathian Shepherd Dog,7
+Saarloos Wolfdog,7
+Tatra Shepherd Dog,7
+Akbash Dog,8
+Anatolian Shepherd Dog,8
+Great Dane,8
+Irish Wolfhound,8
+Polish Greyhound,8
+Scottish Deerhound,8
+Spanish Mastiff,8
